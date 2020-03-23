@@ -1,0 +1,43 @@
+h1{
+	font-size: 50px;
+	font-family: AriaL;
+	color: #c2c2d6;
+	text-align: center;
+	font-weight: normal;
+
+}
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #004466;
+  font-family: Arial;
+}
+
+.list-item {
+  float: left;
+}
+
+.list-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.list-item a:hover {
+  background-color: #111;
+}
+
+body {
+	background-image: url(https://www.itl.cat/pngfile/big/37-370496_dark-light-soothing-relaxing-background.jpg);
+}
+
+img {
+	height: 150px;
+	width: 150px;
+
+}
